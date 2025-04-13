@@ -7,9 +7,8 @@ This project explores the relationship between **Environmental, Social, and Gove
 esg-stock-analysis/  
 ├── data/  
 │   └── [Stock CSV files]  
-├── plots/  
-│   └── [Generated graphs and visualizations]  
 ├── requirements.txt  
+├── Investment_Analysis.py  
 └── README.md  
 
 
