@@ -9,7 +9,6 @@ esg-stock-analysis/
 │   └── [Stock CSV files]  
 ├── plots/  
 │   └── [Generated graphs and visualizations]  
-├── esg_analysis.ipynb     # Main analysis notebook  
 ├── requirements.txt  
 └── README.md  
 
